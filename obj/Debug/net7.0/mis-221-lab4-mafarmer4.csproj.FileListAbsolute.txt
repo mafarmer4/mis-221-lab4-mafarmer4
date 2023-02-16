@@ -1,0 +1,5 @@
+/Users/micahfarmer/Lab 2/MIS 221/mis-221-lab4-mafarmer4/obj/Debug/net7.0/mis-221-lab4-mafarmer4.csproj.AssemblyReference.cache
+/Users/micahfarmer/Lab 2/MIS 221/mis-221-lab4-mafarmer4/obj/Debug/net7.0/mis-221-lab4-mafarmer4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/micahfarmer/Lab 2/MIS 221/mis-221-lab4-mafarmer4/obj/Debug/net7.0/mis-221-lab4-mafarmer4.AssemblyInfoInputs.cache
+/Users/micahfarmer/Lab 2/MIS 221/mis-221-lab4-mafarmer4/obj/Debug/net7.0/mis-221-lab4-mafarmer4.AssemblyInfo.cs
+/Users/micahfarmer/Lab 2/MIS 221/mis-221-lab4-mafarmer4/obj/Debug/net7.0/mis-221-lab4-mafarmer4.csproj.CoreCompileInputs.cache
